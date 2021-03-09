@@ -47,10 +47,30 @@ h1,p,li {
 
 .item1:hover{
   transform: scale(1.2);
+
+}
+.item1{
+
+  justify-content: space-between;
+  background-color: green;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 400;
+  color: black;
+  padding-top:50px;
 }
 
 .item2:hover{
   transform: scale(1.2);
+}
+.item2{
+  justify-content: space-between;
+  background-color: green;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 400;
+  color: black;
+  padding-top:50px;
 }
 .item3:hover{
   transform: scale(1.2);
