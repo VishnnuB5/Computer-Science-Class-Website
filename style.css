@@ -1,41 +1,21 @@
-h1,p,li {
-  color:orange;
-}
 
-.header a:link{
-  color:red;
-}
-
-.header a:visited{
-  color:white;
-}
 
 * img{
   border: 2px solid white;
   border-radius: 50px;
 }
 
-.grid{
-  display:flex;
-  justify-content: space-between;
-  padding-top:20px;
-  margin-top: 20px;
-  border-radius: 20px;
-  background-color: black;
- width:windowWidth;
 
-  font-family:sans-srief;
-}
 
 .header{
   display: flex;
   width:windowWidth;
   justify-content: space-between;
-  background-color: black;
+  background-color: rgb(242,255,179);
   font-size: 20px;
   font-family: sans-serif;
   font-weight: 400;
-  color: black;
+  color: rgb(191,230,0);
   padding-top:50px;
 }
 
@@ -52,12 +32,13 @@ h1,p,li {
 .item1{
 
   justify-content: space-between;
-  background-color: green;
+  background-color: rgb(105,230,255);
   font-size: 20px;
   font-family: sans-serif;
   font-weight: 400;
-  color: black;
+  color: rgb(0,64,77);
   padding-top:50px;
+
 }
 
 .item2:hover{
@@ -65,22 +46,58 @@ h1,p,li {
 }
 .item2{
   justify-content: space-between;
-  background-color: green;
+  background-color: rgb(255,179,230);
   font-size: 20px;
   font-family: sans-serif;
   font-weight: 400;
-  color: black;
+  color: rgb(153,0,77);
   padding-top:50px;
 }
 .item3:hover{
   transform: scale(1.2);
 }
+.item3{
+  justify-content: space-between;
+  background-color: rgb(128,255,128);
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 400;
+  color: rgb(17,102,0);
+  padding-top:50px;
+}
 .item4:hover{
   transform: scale(1.2);
+}
+.item4{
+  justify-content: space-between;
+  background-color: rgb(255,255,153);
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 400;
+  color: rgb(153,153,0);
+  padding-top:50px;
 }
 .item5:hover{
   transform: scale(1.2);
 }
+.item5{
+  justify-content: space-between;
+  background-color: rgb(187,153,255);
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 400;
+  color: rgb(42,0,128);
+  padding-top:50px;
+}
 .item6:hover{
   transform: scale(1.2);
+}
+.item6{
+  justify-content: space-between;
+  background-color: rgb(255,102,179);
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 400;
+  color: rgb(179,0,59);
+  padding-top:50px;
 }
