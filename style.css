@@ -1,103 +1,94 @@
-
-
-* img{
+* img {
   border: 2px solid white;
   border-radius: 50px;
 }
 
-
-
-.header{
+.header {
   display: flex;
-  width:windowWidth;
+  width: windowWidth;
   justify-content: space-between;
-  background-color: rgb(242,255,179);
+  background-color: rgb(242, 255, 179);
   font-size: 20px;
   font-family: sans-serif;
   font-weight: 400;
-  color: rgb(191,230,0);
-  padding-top:50px;
+  color: rgb(191, 230, 0);
+  padding-top: 50px;
 }
 
-*{
+* {
   text-align: center;
 }
 
-
-
-.item1:hover{
+.item1:hover {
   transform: scale(1.2);
-
 }
-.item1{
-
+.item1 {
   justify-content: space-between;
-  background-color: rgb(105,230,255);
+  background-color: rgb(105, 230, 255);
   font-size: 20px;
   font-family: sans-serif;
   font-weight: 400;
-  color: rgb(0,64,77);
-  padding-top:50px;
-
+  color: rgb(0, 64, 77);
+  padding-top: 50px;
 }
 
-.item2:hover{
+.item2:hover {
   transform: scale(1.2);
 }
-.item2{
+.item2 {
   justify-content: space-between;
-  background-color: rgb(255,179,230);
+  background-color: rgb(255, 179, 230);
   font-size: 20px;
   font-family: sans-serif;
   font-weight: 400;
-  color: rgb(153,0,77);
-  padding-top:50px;
+  color: rgb(153, 0, 77);
+  padding-top: 50px;
 }
-.item3:hover{
+.item3:hover {
   transform: scale(1.2);
 }
-.item3{
+.item3 {
   justify-content: space-between;
-  background-color: rgb(128,255,128);
+  background-color: rgb(128, 255, 128);
   font-size: 20px;
   font-family: sans-serif;
   font-weight: 400;
-  color: rgb(17,102,0);
-  padding-top:50px;
+  color: rgb(17, 102, 0);
+  padding-top: 50px;
 }
-.item4:hover{
+.item4:hover {
   transform: scale(1.2);
 }
-.item4{
+.item4 {
   justify-content: space-between;
-  background-color: rgb(255,255,153);
+  background-color: rgb(255, 255, 153);
   font-size: 20px;
   font-family: sans-serif;
   font-weight: 400;
-  color: rgb(153,153,0);
-  padding-top:50px;
+  color: rgb(153, 153, 0);
+  padding-top: 50px;
 }
-.item5:hover{
+.item5:hover {
   transform: scale(1.2);
 }
-.item5{
+.item5 {
   justify-content: space-between;
-  background-color: rgb(187,153,255);
+  background-color: rgb(187, 153, 255);
   font-size: 20px;
   font-family: sans-serif;
   font-weight: 400;
-  color: rgb(42,0,128);
-  padding-top:50px;
+  color: rgb(42, 0, 128);
+  padding-top: 50px;
 }
-.item6:hover{
+.item6:hover {
   transform: scale(1.2);
 }
-.item6{
+.item6 {
   justify-content: space-between;
-  background-color: rgb(255,102,179);
+  background-color: rgb(255, 102, 179);
   font-size: 20px;
   font-family: sans-serif;
   font-weight: 400;
-  color: rgb(179,0,59);
-  padding-top:50px;
+  color: rgb(179, 0, 59);
+  padding-top: 50px;
 }
